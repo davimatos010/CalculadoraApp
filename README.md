@@ -6,7 +6,8 @@ Uma **calculadora gráfica moderna** feita em **Java com Swing**, com uma interf
 
 ## 📸 Interface
 
-![Calculadora](img.png)
+![Print_Calculadora](https://github.com/user-attachments/assets/bafe0e7c-c796-45e2-8e1d-7e9096e099ab)
+
 ---
 
 ## 🧠 Funcionalidades
